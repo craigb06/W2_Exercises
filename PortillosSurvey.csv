@@ -1,0 +1,19 @@
+Id,Start time,Completion time,Time to complete,Email,Name,VisitFreq,LastVisit,RecentRating,Taste,Customer Service,Wait Time,Cost,FutureVisit,Rating
+1,09/26/2024 09:44:19,09/26/2024 09:47:32,03:13,BHambleton@YearUp.org,Bess Hambleton,Occasionally,9/7/2024,5,Extremely satisfied,Extremely satisfied,Satisifed,Satisifed,Very likely,5
+2,09/26/2024 09:45:18,09/26/2024 09:48:22,03:04,jridges@appdev.yearup.org,jridges@appdev.yearup.org,Occasionally,3/14/2024,3,Satisifed,Neutral,Neutral,Satisifed,Somewhat likely,3
+3,09/26/2024 09:55:15,09/26/2024 09:58:01,02:46,akidane@appdev.yearup.org,akidane@appdev.yearup.org,Very rarely,5/24/2024,2,Neutral,Neutral,Satisifed,Dissatisfied ,Not so likely,2
+4,09/26/2024 10:01:04,09/26/2024 10:02:58,01:54,vguerrero@appdev.yearup.org,vguerrero@appdev.yearup.org,Occasionally,7/1/2024,5,Extremely satisfied,Neutral,Dissatisfied ,Satisifed,Very likely,4
+5,09/26/2024 10:08:19,09/26/2024 10:09:10,00:51,agarcia@appdev.yearup.org,agarcia@appdev.yearup.org,Occasionally,9/26/2024,4,Satisifed,Satisifed,Satisifed,Satisifed,Very likely,4
+6,09/26/2024 10:08:09,09/26/2024 10:09:32,01:23,vescamilla1@appdev.yearup.org,vescamilla1@appdev.yearup.org,Rarely,9/1/2024,5,Extremely satisfied,Satisifed,Extremely dissatisfied ,Neutral,Very likely,4
+7,09/26/2024 10:07:50,09/26/2024 10:14:26,06:36,jallen-chunn@appdev.yearup.org,jallen-chunn@appdev.yearup.org,Occasionally,8/8/2024,5,Extremely satisfied,Extremely satisfied,Satisifed,Satisifed,,5
+8,09/26/2024 10:17:27,09/26/2024 10:18:49,01:22,rlopez1@appdev.yearup.org,rlopez1@appdev.yearup.org,Occasionally,8/15/2024,5,Extremely satisfied,Extremely satisfied,Dissatisfied ,Neutral,Very likely,5
+9,09/26/2024 10:17:50,09/26/2024 10:19:50,02:00,jsantoscustodio@appdev.yearup.org,jsantoscustodio@appdev.yearup.org,Very rarely,6/1/2023,2,Dissatisfied ,Satisifed,Dissatisfied ,Neutral,Not so likely,3
+10,09/26/2024 10:16:32,09/26/2024 10:20:42,04:10,mreyes1@appdev.yearup.org,mreyes1@appdev.yearup.org,Very rarely,6/20/2024,4,Satisifed,Neutral,Dissatisfied ,Neutral,Somewhat likely,4
+11,09/26/2024 10:16:32,09/26/2024 10:21:21,04:49,aperez@appdev.yearup.org,aperez@appdev.yearup.org,Rarely,10/16/2023,3,Neutral,Neutral,Neutral,Neutral,Somewhat likely,3
+12,09/26/2024 10:23:37,09/26/2024 10:24:59,01:22,dminer@appdev.yearup.org,dminer@appdev.yearup.org,Occasionally,,2,Neutral,Satisifed,Dissatisfied ,Neutral,Somewhat likely,3
+13,09/26/2024 10:26:57,09/26/2024 10:27:43,00:46,cbeard@appdev.yearup.org,cbeard@appdev.yearup.org,Very rarely,1/1/2020,3,Satisifed,Neutral,Neutral,Neutral,Somewhat likely,3
+14,09/26/2024 10:25:25,09/26/2024 10:30:09,04:44,sbradford1@appdev.yearup.org,sbradford1@appdev.yearup.org,Occasionally,7/15/2024,4,Extremely satisfied,Satisifed,Neutral,Neutral,Very likely,5
+15,09/26/2024 10:31:41,09/26/2024 10:33:10,01:29,szaidi@appdev.yearup.org,szaidi@appdev.yearup.org,Very rarely,7/4/2024,2,Neutral,Neutral,Satisifed,Neutral,Not so likely,3
+16,09/26/2024 10:42:24,09/26/2024 10:43:25,01:01,sgant1@appdev.yearup.org,sgant1@appdev.yearup.org,Occasionally,5/15/2024,3,Satisifed,Satisifed,Neutral,Neutral,Somewhat likely,5
+17,09/26/2024 12:24:22,09/26/2024 12:26:04,01:42,kmabon@appdev.yearup.org,kmabon@appdev.yearup.org,Rarely,9/26/2024,3,Satisifed,Satisifed,Neutral,Neutral,Somewhat likely,4
+,,,02:32,,,,,,,,,,,

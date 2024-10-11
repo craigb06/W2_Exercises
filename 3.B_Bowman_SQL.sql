@@ -81,4 +81,27 @@ CREATE TABLE OrderInfo (
     PaymentID TINYINT NOT NULL,
     TotalAmount DECIMAL
     );
+
+# Alter table OrderInfo to change rewardsproid to match primary key in previous table also change to null
+
+ALTER TABLE restaurant.orderinfo
+MODIFY COLUMN RewardsProID VARCHAR(36);
+
+ALTER TABLE restaurant.orderinfo
+ALTER COLUMN RewardsProID SET DEFAULT NULL;
+
+# Alter table to add OrderDate to OrderInfo
+
+ALTER TABLE restaurant.orderinfo
+ADD COLUMN OrderDate DATETIME NOT NULL;
+
+# Error code 1467 failed to read auto-increment value froms storage engine, alter table from tinyint to int
+
+ALTER TABLE restaurant.orderinfo
+MODIFY COLUMN OrderID INT;
+
+# Note to self when altering column already specified as auto_increment, make sure to respecify auto_increment in modify statement
+
+ALTER TABLE restaurant.orderinfo
+MODIFY COLUMN OrderID INT AUTO_INCREMENT;
     
